@@ -31,11 +31,9 @@
 <html>
 <body>
 
-<h2>Alternative text</h2>
+<h1>The img element</h1>
 
-<p>The alt attribute should reflect the image content, so users who cannot see the image gets an understanding of what the image contains:</p>
-
-<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
 </body>
 </html>
