@@ -1,5 +1,4 @@
 # 212702
-## See on 6. nädala kontrolltöö
 <!DOCTYPE html>
 <html>
 <head>
