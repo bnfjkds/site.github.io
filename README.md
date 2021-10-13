@@ -1,5 +1,5 @@
 # 212702
 ## See on 6. kodutöö
-| Attempt | #1  | #2  |
+| Koer | Koer  | Koer  |
 | :-----: | :-: | :-: |
-| Seconds | 301 | 283 |
+| Koer | Koer | Koer |
